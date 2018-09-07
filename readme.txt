@@ -7,6 +7,7 @@ Tested up to: 4.9.8
 Stable tag: 1.1.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Github: https://github.com/carlosramosweb/woo-payment-on-delivery/
 
 Receba em dinheiro, cheque, no cartão de crédito, débito e ou cartão alimentação (voucher) no ato da entrega.
 

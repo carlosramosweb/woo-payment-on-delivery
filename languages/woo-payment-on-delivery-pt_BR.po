@@ -1,0 +1,348 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woo Payment On Delivery v1.2.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-09 06:36+0000\n"
+"PO-Revision-Date: 2020-04-09 06:45+0000\n"
+"Last-Translator: \n"
+"Language-Team: Português do Brasil\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: BRAZIL\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes\n"
+"Language: pt_BR\n"
+"X-Loco-Version: 2.3.2; wp-5.4"
+
+#: includes/settings-form-fields.php:21 includes/settings-form-fields.php:75
+#: includes/settings-form-fields.php:107 includes/settings-form-fields.php:135
+msgid "Enable/Disable"
+msgstr ""
+
+#: includes/settings-form-fields.php:23
+msgid "Habilitar o pagamento no Delivery"
+msgstr ""
+
+#: includes/settings-form-fields.php:27
+msgid "Title"
+msgstr ""
+
+#: includes/settings-form-fields.php:29
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: includes/settings-form-fields.php:30 woo-payment-on-delivery.php:42
+msgid "Delivery"
+msgstr ""
+
+#: includes/settings-form-fields.php:34
+msgid "Description"
+msgstr ""
+
+#: includes/settings-form-fields.php:36
+msgid "Escreva aqui alguma informação pertinente para o cliente."
+msgstr ""
+
+#: includes/settings-form-fields.php:37
+msgid "Escolha uma forma de pagamento abaixo."
+msgstr ""
+
+#: includes/settings-form-fields.php:42
+msgid "Tipos aceitos"
+msgstr ""
+
+#: includes/settings-form-fields.php:46 includes/settings-form-fields.php:63
+#: includes/settings-form-fields.php:86 includes/settings-form-fields.php:118
+msgid "Selecione um tipo de pagamento aceito."
+msgstr ""
+
+#: includes/settings-form-fields.php:48
+msgid "Money"
+msgstr ""
+
+#: includes/settings-form-fields.php:49 woo-payment-on-delivery.php:361
+msgid "Paycheck"
+msgstr "Cheque"
+
+#: includes/settings-form-fields.php:50 includes/settings-form-fields.php:59
+msgid "Debit Card"
+msgstr ""
+
+#: includes/settings-form-fields.php:51 includes/settings-form-fields.php:82
+msgid "Credit Card"
+msgstr ""
+
+#: includes/settings-form-fields.php:52 woo-payment-on-delivery.php:370
+msgid "Voucher"
+msgstr "Vale Alimentação"
+
+#: includes/settings-form-fields.php:53 woo-payment-on-delivery.php:373
+msgid "MultiBanco"
+msgstr ""
+
+#: includes/settings-form-fields.php:65 includes/settings-form-fields.php:88
+msgid "Mastercard"
+msgstr ""
+
+#: includes/settings-form-fields.php:66 includes/settings-form-fields.php:89
+msgid "Visa"
+msgstr ""
+
+#: includes/settings-form-fields.php:67
+msgid "Elo"
+msgstr ""
+
+#: includes/settings-form-fields.php:68
+msgid "Discover Network"
+msgstr ""
+
+#: includes/settings-form-fields.php:69 includes/settings-form-fields.php:96
+#: includes/settings-form-fields.php:128
+msgid "Cabal"
+msgstr ""
+
+#: includes/settings-form-fields.php:70 includes/settings-form-fields.php:98
+msgid "Sicredi"
+msgstr ""
+
+#: includes/settings-form-fields.php:77
+msgid ""
+"(Cartão de Débito) Se habilitado não será exibido a lista de bandeiras no "
+"checkout."
+msgstr ""
+
+#: includes/settings-form-fields.php:90
+msgid "American Express"
+msgstr ""
+
+#: includes/settings-form-fields.php:91
+msgid "Hipercard"
+msgstr ""
+
+#: includes/settings-form-fields.php:92
+msgid "Hiper"
+msgstr ""
+
+#: includes/settings-form-fields.php:93
+msgid "Diners Club"
+msgstr ""
+
+#: includes/settings-form-fields.php:94
+msgid "Discover"
+msgstr ""
+
+#: includes/settings-form-fields.php:95
+msgid "Aura"
+msgstr ""
+
+#: includes/settings-form-fields.php:97 includes/settings-form-fields.php:127
+msgid "Soro Cred"
+msgstr ""
+
+#: includes/settings-form-fields.php:99
+msgid "Cooper Card"
+msgstr ""
+
+#: includes/settings-form-fields.php:100
+msgid "Avista"
+msgstr ""
+
+#: includes/settings-form-fields.php:101
+msgid "Mais!"
+msgstr ""
+
+#: includes/settings-form-fields.php:102
+msgid "UnionPay"
+msgstr ""
+
+#: includes/settings-form-fields.php:109
+msgid ""
+"(Cartão de Crédito) Se habilitado não será exibido a lista de bandeiras no "
+"checkout."
+msgstr ""
+
+#: includes/settings-form-fields.php:114
+msgid "Voucher Card"
+msgstr "Cartão Vale Alimentação"
+
+#: includes/settings-form-fields.php:120
+msgid "Ticket"
+msgstr ""
+
+#: includes/settings-form-fields.php:121
+msgid "Sodexo"
+msgstr ""
+
+#: includes/settings-form-fields.php:122
+msgid "GreenCard"
+msgstr ""
+
+#: includes/settings-form-fields.php:123
+msgid "Planvale"
+msgstr ""
+
+#: includes/settings-form-fields.php:124
+msgid "Nutricash"
+msgstr ""
+
+#: includes/settings-form-fields.php:125
+msgid "Verocheque"
+msgstr ""
+
+#: includes/settings-form-fields.php:126
+msgid "Cooper card"
+msgstr ""
+
+#: includes/settings-form-fields.php:129
+msgid "BNB Clube"
+msgstr ""
+
+#: includes/settings-form-fields.php:130
+msgid "VB"
+msgstr ""
+
+#: includes/settings-form-fields.php:137
+msgid ""
+"(Voucher) Se habilitado não será exibido a lista de bandeiras no checkout."
+msgstr ""
+
+#: includes/settings-form-fields.php:142
+msgid "Ativar métodos de entrega"
+msgstr ""
+
+#: includes/settings-form-fields.php:147
+msgid "O pagamento no Delivery será exibido para essas opções aqui marcadas. "
+msgstr ""
+
+#: includes/settings-form-fields.php:151
+msgid "Select shipping methods"
+msgstr ""
+
+#. translators: plugin header field 'Name'
+#: woo-payment-on-delivery.php:0
+msgid "Woo Payment On Delivery"
+msgstr ""
+
+#. translators: plugin header field 'PluginURI'
+#: woo-payment-on-delivery.php:0
+msgid "https://wordpress.org/plugins/woo-payment-on-delivery/"
+msgstr ""
+
+#. translators: plugin header field 'Description'
+#: woo-payment-on-delivery.php:0
+msgid ""
+"Receba em dinheiro, cheque, no cartão de crédito, débito e ou cartão "
+"alimentação (voucher) no ato da entrega."
+msgstr ""
+
+#. translators: plugin header field 'Author'
+#: woo-payment-on-delivery.php:0
+msgid "carlosramosweb"
+msgstr ""
+
+#. translators: plugin header field 'AuthorURI'
+#: woo-payment-on-delivery.php:0
+msgid "http://www.criacaocriativa.com/plugins/"
+msgstr ""
+
+#. translators: plugin header field 'Version'
+#: woo-payment-on-delivery.php:0
+msgid "1.2.3"
+msgstr ""
+
+#: woo-payment-on-delivery.php:43
+msgid "Adicione nova forma de pagamento na entrega."
+msgstr ""
+
+#: woo-payment-on-delivery.php:88 woo-payment-on-delivery.php:256
+msgid "Pagamento no Delivery"
+msgstr ""
+
+#: woo-payment-on-delivery.php:120
+msgid "Erro! Para fazer seu pedido, selecione uma forma de pagamento."
+msgstr ""
+
+#: woo-payment-on-delivery.php:129
+#, php-format
+msgid ""
+"O valor do troco precisa ser maior que o total do seu pedido que é de "
+"<strong>%s %s.</strong>"
+msgstr ""
+
+#: woo-payment-on-delivery.php:136
+msgid "Aguardando pagamento em dinheiro."
+msgstr ""
+
+#: woo-payment-on-delivery.php:140
+msgid "Nenhum troco foi indicado."
+msgstr ""
+
+#: woo-payment-on-delivery.php:144
+msgid "Leve troco para: "
+msgstr ""
+
+#: woo-payment-on-delivery.php:166
+msgid "Aguardando pagamento em cheque."
+msgstr ""
+
+#: woo-payment-on-delivery.php:170
+msgid "O pagamento será em cheque!"
+msgstr ""
+
+#: woo-payment-on-delivery.php:189
+msgid "Aguardando pagamento em MultiBanco."
+msgstr ""
+
+#: woo-payment-on-delivery.php:193
+msgid "O pagamento será em MultiBanco!"
+msgstr ""
+
+#: woo-payment-on-delivery.php:213
+msgid "Erro! Para fazer seu pedido, selecione uma bandeira."
+msgstr ""
+
+#: woo-payment-on-delivery.php:219
+msgid ""
+"Aguardando pagamento no cartão. \n"
+msgstr ""
+
+#: woo-payment-on-delivery.php:224
+msgid "Enviar a Máquina de Cartão: "
+msgstr ""
+
+#: woo-payment-on-delivery.php:230
+msgid "Erro! O tipo de cartão não foi indicado! "
+msgstr ""
+
+#: woo-payment-on-delivery.php:248
+msgid "Ocorreu um erro inesperado. Entre em contato com o gerente desta loja."
+msgstr ""
+
+#: woo-payment-on-delivery.php:267
+msgid "Selecione uma bandeira"
+msgstr ""
+
+#: woo-payment-on-delivery.php:337
+msgid "Selecione um pagamento"
+msgstr ""
+
+#: woo-payment-on-delivery.php:358
+msgid "Dinheiro"
+msgstr ""
+
+#: woo-payment-on-delivery.php:364
+msgid "Cartão de Débito"
+msgstr ""
+
+#: woo-payment-on-delivery.php:367
+msgid "Cartão de Crédito"
+msgstr ""
